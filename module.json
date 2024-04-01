@@ -23,5 +23,9 @@
         "ASSISTANT": "OWNER"
       }
     }
-  ]
+  ],
+  "url": "https://github.com/DarkSerpent/Sword-World-2.5-Spells-Compendium",
+  "manifest": "https://github.com/DarkSerpent/Sword-World-2.5-Spells-Compendium/releases/latest/download/module.json",
+  "download": "https://github.com/DarkSerpent/Sword-World-2.5-Spells-Compendium/releases/latest/download/module.zip",
+  "readme": "README.md"
 }
