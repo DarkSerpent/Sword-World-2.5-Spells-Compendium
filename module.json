@@ -1,0 +1,27 @@
+{
+  "id": "sworld-world-25-spells-compendium",
+  "title": "Sword World 2.5 Spells Compendium",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "authors": [
+    {
+      "name": "Amarulence",
+      "discord": "amarulence"
+    }
+  ],
+  "packs": [
+    {
+      "name": "sword-world-25-spells",
+      "label": "Sword World 2.5 Spells",
+      "path": "packs/sword-world-25-spells",
+      "type": "Macro",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ]
+}
